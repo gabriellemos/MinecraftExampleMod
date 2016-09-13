@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutorialmod",
+  "name": "Tutorial Mod",
+  "description": "Mod destinado para verificar funcionalidades básicas.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Keg"],
+  "credits": "MCForge docs",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
